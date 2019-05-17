@@ -1,1 +1,2 @@
-# Baguette-An-ISA-Datapath-Simulation
+# Computer-Architecture
+Simulation of a Datapath in Java
